@@ -1,0 +1,8 @@
+Main.java
+ Main
+array/exemplo001/MyClass.java
+ array.exemplo001.MyClass
+array/exemplo002/MyClass.java
+ array.exemplo002.MyClass
+array/exemplo003/MyClass.java
+ array.exemplo003.MyClass
